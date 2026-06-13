@@ -1,4 +1,4 @@
-# tangnano_v9-projects
+# tangnano9k-projects
 
 My Tang Nano v9 projects
 
