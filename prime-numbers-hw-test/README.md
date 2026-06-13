@@ -1,6 +1,12 @@
 # Prime numbers hardware test
 
-To build and load:
+## Prerequisites
+
+Download the [original project](https://github.com/kritikov/Fully-Parallel-Prime-Number-Search-on-FPGA.git).
+
+Copy the VHD files in the directory of this project.
+
+## Build & load
 
 ```bash
 make clean
